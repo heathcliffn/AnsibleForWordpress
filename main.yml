@@ -47,3 +47,4 @@
     - include_tasks: ssl/main.yml
 #Enabling Backend Services
     - include_tasks: Yums/wpdep.yml 
+#Ansible-playbook main.yml
